@@ -1,8 +1,4 @@
-# How to use the Flow Client Library (FCL) with Next.js
-
-Everything you need to build a Next.js project with the Flow Client Library (FCL).
-
-For a SvelteKit example, see my other repo: https://github.com/muttoni/fcl-sveltekit
+# DataScape
 
 ## [Live demo](https://fcl-nextjs-quickstart.vercel.app/)
 
